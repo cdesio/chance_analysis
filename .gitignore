@@ -1,2 +1,6 @@
 good_files*
 bad_files*
+.good*
+.bad*
+figures/*
+figures
